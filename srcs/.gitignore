@@ -1,0 +1,5 @@
+.env
+
+/requirements/mariadb/tools/
+/requirements/nginx/tools/
+/requirements/wordpress/tools/
