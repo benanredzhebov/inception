@@ -22,18 +22,21 @@ ft_irc - 100%✅
 
 # Project Structure
 
-📦 inception
-|---📁 srcs
-|   |---📁 requirements
-|   |   |---📁 nginx
-|   |   |---📁 wordpress
-|   |   |---📁 mariadb
-|   |   |---📁 tools
-|   |   |--- .env
-|   |   |--- .gitignore
-|   |   |--- docker-compose.yml
-|--- Makefile
-|--- README.md
+inception/
+│── srcs/
+│   │── requirements/
+│   │   │── nginx/
+│   │   │── wordpress/
+│   │   │── mariadb/
+│   │   │── adminer/
+│   │   │── redis/ (optional)
+│   │   │── ftp/ (optional)
+│   │── tools/
+│── .env
+│── docker-compose.yml
+│── Makefile
+│── README.md
+
 
 
 # Instalation & Setup
