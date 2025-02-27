@@ -22,7 +22,7 @@ ft_irc - 100%✅
 
 # Project Structure
 
-inception/
+`inception/
 │── srcs/
 │   │── requirements/
 │   │   │── nginx/
@@ -35,7 +35,7 @@ inception/
 │── .env
 │── docker-compose.yml
 │── Makefile
-│── README.md
+│── README.md`
 
 
 
