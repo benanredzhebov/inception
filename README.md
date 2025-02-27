@@ -19,26 +19,6 @@ scalability.
 Result : 
 ft_irc - 100%✅
 
-
-# Project Structure
-
-`inception/
-│── srcs/
-│   │── requirements/
-│   │   │── nginx/
-│   │   │── wordpress/
-│   │   │── mariadb/
-│   │   │── adminer/
-│   │   │── redis/ (optional)
-│   │   │── ftp/ (optional)
-│   │── tools/
-│── .env
-│── docker-compose.yml
-│── Makefile
-│── README.md`
-
-
-
 # Instalation & Setup
 
 1️⃣ Clone the Repository
