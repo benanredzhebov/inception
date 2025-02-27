@@ -38,20 +38,20 @@ ft_irc - 100%✅
 
 # Instalation & Setup
 
-1️⃣ ## Clone the Repository
+1️⃣ Clone the Repository
 `git clone git@github.com:benanredzhebov/inception.git`
 `cd inception`
 
-2️⃣ ## Configure Environment Variables
+2️⃣ Configure Environment Variables
 Modify the `.env` file to set up database credentials, WordPress settings, and domain names.
 
-3️⃣ ## Buld and Run Containers
+3️⃣ Buld and Run Containers
 `docker-compose up --build -d`
 
-4️⃣ ## Access the Services
+4️⃣ Access the Services
   - **Wordpress:** http://your-domain.com
 
-5️⃣ ## Stop and Clean Up
+5️⃣ Stop and Clean Up
 `docker-compose down -v`
 
 # Key Features
